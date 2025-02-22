@@ -1,6 +1,4 @@
-Here's the updated **README** based on your provided table:
 
----
 
 # Plant Disease Detection Classification
 
