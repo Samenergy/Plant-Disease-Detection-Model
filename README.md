@@ -12,8 +12,8 @@ This project focuses on building machine learning models for the classification 
 
 The dataset consists of images of plants, each associated with one of 38 classes representing different plant diseases. The dataset has been split into:
 
-- **Training Set**: 38,000 images (1,000 images per class)
-- **Validation Set**: 15,200 images (400 images per class)
+- **Training Set**: 70295 images in 38 classes.
+- **Validation Set**: 17572 images in 38 classes.
 
 ### Data Preprocessing
 
