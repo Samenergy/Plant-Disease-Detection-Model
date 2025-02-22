@@ -8,8 +8,13 @@ Here's the updated **README** based on your provided table:
 
 This project focuses on building machine learning models for the classification of plant diseases based on images. Using a publicly available dataset, we will explore classical machine learning algorithms and deep learning models, optimizing them using different techniques like regularization, early stopping, and various optimizers. The goal is to determine the most effective combination of hyperparameters to optimize the models for the task of detecting plant diseases.
 
+
 ## Dataset
 
+The dataset used for training and testing the models can be found at the following Kaggle link:
+
+[**Plant Diseases Detection Dataset**](https://www.kaggle.com/code/imtkaggleteam/plant-diseases-detection-pytorch/input)
+ 
 The dataset consists of images of plants, each associated with one of 38 classes representing different plant diseases. The dataset has been split into:
 
 - **Training Set**: 70295 images in 38 classes.
