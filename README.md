@@ -15,8 +15,8 @@ The dataset used for training and testing the models can be found at the followi
  
 The dataset consists of images of plants, each associated with one of 38 classes representing different plant diseases. The dataset has been split into:
 
-- **Training Set**: 70295 images in 38 classes.
-- **Validation Set**: 17572 images in 38 classes.
+- **Training Set**: 70295 images 
+- **Validation Set**: 17572 images 
 
 ### Data Preprocessing
 
