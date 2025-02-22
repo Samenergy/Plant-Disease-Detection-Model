@@ -90,7 +90,7 @@ The best model will be used to make predictions on the test dataset, which has n
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9.6
 - TensorFlow/Keras
 - Scikit-learn
 - XGBoost (optional)
