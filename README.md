@@ -8,7 +8,7 @@ This project focuses on building machine learning models for the classification 
 
 ## Saved Models
 
-Due to the large size of the trained models, they were not stored directly in this repository. Instead, I have uploaded the saved models to a cloud storage platform (e.g., Google Drive) to ensure they are accessible.
+Due to the large size of the trained models, they were not stored directly in this repository. Instead, I have uploaded the saved models to Google Drive to ensure they are accessible.
 
 You can download the saved models from the link below:
 
