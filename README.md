@@ -98,11 +98,14 @@ The best model will be used to make predictions on the test dataset, which has n
 - Numpy
 
 
-## Video Presentation
+## Video Presentation  
 
-A **5-minute video** will be uploaded, where I will:
-- Discuss the dataset and problem statement.
-- Explain the models used (classical ML and neural networks).
-- Detail the hyperparameter choices and their impact on model performance.
-- Demonstrate the final model selection and performance.
+A **5-minute video** will be uploaded, covering the following:  
+
+- **Dataset & Problem Statement:** Overview of the dataset and the objective of the classification task.  
+- **Models Used:** Explanation of classical ML models and neural networks applied.  
+- **Hyperparameter Tuning:** Discussion on hyperparameter choices and their impact on performance.  
+- **Final Model Selection:** Justification for the best-performing model and its evaluation metrics.  
+
+📌 **Watch the video here:** [(https://www.youtube.com/watch?v=vc6lQumV-I0&list=RDvc6lQumV-I0&start_radio=1&ab_channel=Fabrice)]  
 
