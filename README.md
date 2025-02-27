@@ -6,16 +6,6 @@
 
 This project focuses on building machine learning models for the classification of plant diseases based on images. Using a publicly available dataset, we will explore classical machine learning algorithms and deep learning models, optimizing them using different techniques like regularization, early stopping, and various optimizers. The goal is to determine the most effective combination of hyperparameters to optimize the models for the task of detecting plant diseases.
 
-## Saved Models
-
-Due to the large size of the trained models, they were not stored directly in this repository. Instead, I have uploaded the saved models to Google Drive to ensure they are accessible.
-
-You can download the saved models from the link below:
-
-[**Download Saved Models**](https://drive.google.com/drive/folders/1vmLu4bWquu_Ikh1446U86rvJ36QFQZd4?usp=sharing)
-
-These models include the best-performing configurations after hyperparameter tuning and optimization.
-
 
 ## Dataset
 
